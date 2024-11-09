@@ -11,10 +11,10 @@ const GamePage = () => {
           <h1>Blue Bells Game</h1>
         </div>
         <div>
-          {/* <h3>
+          <h3>
             Play a game to earn blue bells that you can donate to the initiative
             of your choice
-          </h3> */}
+          </h3>
         </div>
         <div>
           <Game />
